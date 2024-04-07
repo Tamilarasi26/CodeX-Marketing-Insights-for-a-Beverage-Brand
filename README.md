@@ -16,10 +16,15 @@ Their Marketing Team wants their Data Analyst to convert these survey results in
 
 
 ➤Demographic Analysis: Studied what people like based on how old they are, if they're male or female, and where they live.
+
 ➤Customer Preferences: Found out what ingredients, packaging, and buying habits people prefer.
+
 ➤Purchasing Behavior: Looked at how people purchase energy drinks, like how often, where, and why, considering their age, gender, and location.
+
 ➤Competition Analysis: Examined the top brands in the market and why people like them.
+
 ➤CodeX Performance: Checked how well CodeX is doing overall and why people choose it.
+
 
 These findings can help us make smart choices about how to make our product better, how to advertise it, and how to make sure people know what our brand is all about.
 
